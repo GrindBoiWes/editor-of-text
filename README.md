@@ -9,7 +9,7 @@ This application uses PWA, or progressive web app, to make sure that even if you
 ## Installation 
 
 1. Clone Repo:
- - git clone git@github.com:GrindBoiWes/editor-of-text.git
+ - git clone https://github.com/GrindBoiWes/editor-of-text.git
 
 2. Install the NPM packages
  - run npm i inside of your terminal
